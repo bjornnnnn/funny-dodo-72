@@ -36,7 +36,10 @@ export default function Footer({ children }: Props) {
           </div>
         </div>
         <div class="text-gray-500">
-Tävlingsorganisation: Björn Naeslund mobil: 073-370 95 03        </div>
+<p>Tävlingsorganisation: Björn Naeslund</p> 
+<p>mobil: <a href="tel:+46733709503">+46 73 370 95 03</a></p>
+<p> epost: <a href="mailto:bjornnae@gmail.com">bjornnae@gmail.com</a></p>
+</div>
       </div>
 
 
