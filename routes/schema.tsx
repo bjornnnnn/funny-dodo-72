@@ -6,9 +6,10 @@ export default function SchemaPage() {
 <div class="px-4 py-8 mx-auto bg-[#86efac]">
       <div class="max-w-screen-md mx-auto flex flex-col items-center justify-center">
      
-      <Header></Header>
+      <Header></Header>&nbsp;<br/>   
       <h1 class="text-4xl font-bold">Schema</h1>
         <p>Här kommer ett tidschema publiceras när det är klart...</p>
+        &nbsp;<br/>
       <Footer></Footer>
       </div>
       </div>
