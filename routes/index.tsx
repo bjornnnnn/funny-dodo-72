@@ -15,9 +15,9 @@ export default function Home() {
 &nbsp;<br/>       
  <h1 class="text-4xl font-bold">Just nu...</h1>
         <ul>
-        <li>För <strong>tävlande:</strong> Ankomst, avlastning och registrering från 2023-09-08 kl 16:00 i NSS klubbhus.</li>
-        <li>För <strong>publik:</strong> Första start: 2023-09-09 kl 11:00 på Gårdsfjärden.</li>
-        <li>För <strong>funktionärer:</strong> Funktionärsmöte 2023-09-08 kl 18:00 i NSS nya klubbhus.</li>
+        <li>För <strong>tävlande:</strong>Tävling pågår på Gårdsfjärden</li>
+        <li>För <strong>publik:</strong>Tävlingen kan ses från Strandvägen (Ringvägen)</li>
+        <li>För <strong>funktionärer: Alla är på plats och jobbar.</strong></li>
         </ul>
         <p class="my-4">
           
