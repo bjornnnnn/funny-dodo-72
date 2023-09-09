@@ -10,7 +10,8 @@ import * as $4 from "./routes/bojbat.tsx";
 import * as $5 from "./routes/greet/[name].tsx";
 import * as $6 from "./routes/index.tsx";
 import * as $7 from "./routes/resultat.tsx";
-import * as $8 from "./routes/schema.tsx";
+import * as $8 from "./routes/resultat_aero5.tsx";
+import * as $9 from "./routes/schema.tsx";
 import * as $$0 from "./islands/AddClass.tsx";
 import * as $$1 from "./islands/Counter.tsx";
 
@@ -24,7 +25,8 @@ const manifest = {
     "./routes/greet/[name].tsx": $5,
     "./routes/index.tsx": $6,
     "./routes/resultat.tsx": $7,
-    "./routes/schema.tsx": $8,
+    "./routes/resultat_aero5.tsx": $8,
+    "./routes/schema.tsx": $9,
   },
   islands: {
     "./islands/AddClass.tsx": $$0,

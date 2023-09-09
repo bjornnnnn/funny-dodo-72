@@ -10,6 +10,7 @@ export default function ResultatPage() {
  
            <h1 class="text-4xl font-bold">Resultat</h1>
         <p>Här kommer resultat publiceras så fort de är inrapporterade.</p>
+        <a href="resultat_aero5">Aero5</a>
         &nbsp;<br/>
         <Footer></Footer>
 </div>
