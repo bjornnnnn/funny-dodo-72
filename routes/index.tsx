@@ -15,7 +15,7 @@ export default function Home() {
 &nbsp;<br/>       
  <h1 class="text-4xl font-bold">Just nu...</h1>
         <ul>
-        <li>För <strong>tävlande:</strong>Tävling pågår på Gårdsfjärden</li>
+        <li>För <strong>tävlande:</strong>Tävling pågår på Gårdsfjärden. Första målgången pågår (12:19). Rapport om att det är svag vind.</li>
         <li>För <strong>publik:</strong>Tävlingen kan ses från Strandvägen (Ringvägen)</li>
         <li>För <strong>funktionärer: Alla är på plats och jobbar.</strong></li>
         </ul>
